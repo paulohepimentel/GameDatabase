@@ -22,7 +22,7 @@
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## ✦ Esquema
-<p align="justify">A seguir, a modelagem tendo como base a ferramenta SQL Workbench</p>
+<p align="justify">A seguir, a modelagem tendo como base a ferramenta SQL Workbench:</p>
 
 <p align="center">
     <img alt="Esquema" title="Esquema" src="images/esquema.png" width="70%" />
