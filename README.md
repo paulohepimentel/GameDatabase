@@ -10,10 +10,6 @@
   <a href="#-esquema">Esquema</a>
 </p>
 
-<p align="center">
-    <img alt="Telas" title="App" src="images/Telas.svg" width="100%"/>
-</p>
-
 ## ✦ Projeto
 <p align="justify">O trabalho tem como objetivo a implementação prática dos conceitos aprendidos em sala de aula, mais precisamente, a modelagem e estruturação de um banco de dados relacional, tendo como linguagem de construção o SQL.</p>
 
